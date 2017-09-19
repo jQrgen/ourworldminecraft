@@ -1,2 +1,1 @@
-# ourworldminecraft
-minecraft server
+# KLÆBUVEIEN MINECRAFT
